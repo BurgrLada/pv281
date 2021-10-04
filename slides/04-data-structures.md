@@ -240,7 +240,7 @@ fn main() {
 
 # Take
 
-1. Přeskočí n prvků
+1. Vezme n prvků
 
 ```rust
 fn main() {
